@@ -1,0 +1,1 @@
+function* range(o = {}){ yield* new Map(Object.keys(o).map(k => [k, o[k]])); }

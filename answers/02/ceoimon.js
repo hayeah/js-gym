@@ -1,0 +1,1 @@
+const timeout = t => new Promise(r => setTimeout(r, t, new Date()));
