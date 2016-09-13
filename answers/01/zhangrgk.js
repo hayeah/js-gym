@@ -25,7 +25,7 @@ Output:
 */
 
 function* range(o) {
-  for(i of Object.keys(o)) {
+  for(let i of Object.keys(o)) {
     yield [i, o[i]];
   }
 };
