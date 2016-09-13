@@ -1,8 +1,12 @@
 # 题目
 
-+ [实现 range 迭代器，可以遍历数组或者对象的键值](problems/01.md)
-+ [实现 timeout 异步函数，在指定的延迟之后返回当前的时间](problems/02.md)
-+ [用生成器去实现类似 async/await 的功能](problems/03.md)
+[实现 range 迭代器，可以遍历数组或者对象的键值](problems/01.md)
+
+[实现 timeout 异步函数，在指定的延迟之后返回当前的时间](problems/02.md)
+
+[用生成器去实现类似 async/await 的功能](problems/03.md)
+
+[用 Proxy 实现反应式计算](problems/04.md)
 
 你可以在 [Issues](https://github.com/hayeah/js-gym/issues) 发你的题目。
 
