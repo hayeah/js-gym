@@ -8,6 +8,8 @@
 
 [用 Proxy 实现反应式计算](problems/04.md)
 
+[实现 Object.assign](problems/05.md)
+
 你可以在 [Issues](https://github.com/hayeah/js-gym/issues) 发你的题目。
 
 # 提交答案
