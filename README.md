@@ -10,6 +10,8 @@
 
 [实现 Object.assign](problems/05.md)
 
+[实现无缝不可变数组](problems/06.md)
+
 你可以在 [Issues](https://github.com/hayeah/js-gym/issues) 发你的题目。
 
 # 提交答案
